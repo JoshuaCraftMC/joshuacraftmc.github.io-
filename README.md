@@ -1,16 +1,16 @@
 # [joshuacraftmc.github.io-](https://joshuacraftmc.github.io/)
 <html><head>
-    <title>eaglercraft</title>
+    <title>Minecraft 1.5.2</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. It supports both singleplayer and multiplayer with no extensions.">
-    <meta name="keywords" content="minecraft, eaglercraft, singleplayer, applet, replit, browser, html5, javascript, chromebook, lax1dude, games, eagler">
+    <meta name="description" content="This Minecraft was created by JoshuaCraftMC is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. It supports both singleplayer and multiplayer with no extensions.">
+    <meta name="keywords" content="minecraft, Minecraft 1.5.2, singleplayer, applet, replit, browser, html5, javascript, chromebook, lax1dude, games, eagler">
     <meta name="author" content="lax1dude">
-    <meta property="og:title" content="Eaglercraft">
+    <meta property="og:title" content="Minecraft 1.5.2">
     <meta property="og:locale" content="en-US">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://media.discordapp.net/attachments/378764518081429506/932053915061587978/thumbnail2.png">
-    <meta property="og:description" content="Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. It supports both singleplayer and multiplayer with no extensions.">
+    <meta property="og:description" content="This Minecraft was created by JoshuaCraftMC is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. It supports both singleplayer and multiplayer with no extensions.">
     <link rel="icon" href="favicon.ico">
     <link rel="shortcut icon" href="favicon.ico">
     <script type="text/javascript" src="classes.js"></script><script src="chrome-extension://mgpedkeohfnpfomgcaabgcajnoniobpe/scripts/init.js"></script>
@@ -31,7 +31,7 @@
             worldsFolder: "MAIN",
             servers: [
               {
-                serverName: "Asspixel",
+                serverName: "Hypixelpixel Cracked",
                 serverAddress: "wss://web.asspixel.net/CAP/",
                 hideAddress: false,
               },
